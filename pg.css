@@ -1,0 +1,173 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.btn1{
+    margin-top: 10px;
+    border: solid 1px white;
+    background-color: #ff003A;
+    font-family: poppins;
+    color: white;
+    font-size: 15px;
+    padding: 2px 12px 4px 12px;
+    border-radius: 15px;
+   
+}
+.btn1:hover{
+    background-color: white;
+    color: #ff003A;
+    border: 1px solid #ff003A;
+    transition: .3s;
+    box-shadow: 3px 2px #ff003A;
+}
+.nav-item{
+    
+    padding:4px 1px 1px 11px;
+    font-family:  'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    opacity: 0.8;
+}
+.new{
+    color: #031A62;
+}
+
+.nav-link:hover{
+    color: #ff003A;
+     opacity: 1s;
+     box-shadow: 3px 3px #2e3030;
+     transition: 0.5s;
+}
+.sec2{
+    background-color: #031A62;
+}
+.sec2-h{
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ font-weight: bold;
+    font-size: 3.5em;
+    color: white;
+    padding: 25px 3px 4px 1.5em;
+}
+.sec2-t1{
+    color: white;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 4em;
+}
+.sec-t3{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 4.7em;
+    padding-top: 15px;
+    padding-bottom: 45px;
+    word-spacing: 6px;
+    cursor: pointer;
+    font-size: 17px;
+    opacity: 0.8;
+}
+.sec-t3:hover{
+    opacity: 1;
+}
+.sec2-h-t{
+    text-align: center;
+    color: #031A62;
+    font-size: 2.5em;
+    padding-top: 35px;
+    padding-bottom: 8px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+.sec2-t{
+    color: black;
+    text-align: left;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   padding: 5px 3px 5px 3px;
+   word-spacing: 5px;
+   margin-left: 8em;
+   margin-right: 1.5em;
+   font-size:18px;
+    
+}
+.sec3-btn{
+    padding: 8px 28px 8px 28px;
+    background-color: #031A62;
+    color: white;
+    border: 1px solid #031A62;
+    border-radius: 8px;
+    font-family:'Times New Roman', Times, serif ;
+    margin-bottom: 15px;
+}
+.sec3-btn:hover{
+    color: #031A62;
+    background-color: white;
+    border: 2px solid #031A62;
+    transition: 0.3s;
+}
+.end-sec{
+   
+    background-color: #031b61;
+}
+.last-logo{
+    padding: 3em 1px 1px 5em;
+}
+.last-logo-btn{
+margin-top: 4.5em;
+padding: 5px 18px 5px 18px;
+border-radius: 5px;
+color: white;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 25px;
+border: 1px solid #FF8700;
+background-color: #FF8700;
+}
+.last-logo-btn:hover{
+    background-color: white;
+    color: #FF8700;
+    transition: .3s;
+}
+.sec9-cnt{
+   text-align: left;
+     margin-left: 1.5em;
+     font-size: 4em;
+     color: white;
+     box-shadow: 2px 0px white;
+     
+}
+
+.arw{
+    padding-left: 15px;
+    padding-top: 39px;
+}
+.cont{
+    margin-left: 4em;
+    
+}
+.cont2{
+    margin-left: 5.7em;
+}
+.cont3{
+    margin-left: 5.4em;
+}
+.cont-t{
+    color: white;
+    font-family:  'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    opacity: 0.8;
+    padding-left: 3px;
+    box-shadow: 2px 0px white;
+}
+.last-head{
+    color: white;
+   cursor: pointer;
+    font-weight: bold;
+}
+.last-t-h{
+    color:wheat;
+    font-weight: 600;
+
+    cursor: pointer;
+    opacity: 0.8;
+}
+.last-t-h:hover{
+opacity: 1;
+}

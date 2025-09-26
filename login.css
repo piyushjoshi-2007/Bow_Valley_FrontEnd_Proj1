@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.btn1{
+    margin-top: 10px;
+    border: solid 1px white;
+    background-color: #ff003A;
+    font-family: poppins;
+    color: white;
+    font-size: 15px;
+    padding: 2px 12px 4px 12px;
+    border-radius: 15px;
+   
+}
+.btn1:hover{
+    background-color: white;
+    color: #ff003A;
+    border: 1px solid #ff003A;
+    transition: .3s;
+    box-shadow: 3px 2px #ff003A;
+}
+.nav-item{
+    
+    padding:4px 1px 1px 11px;
+    font-family:  'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    opacity: 0.8;
+}
+.new{
+    color: #031A62;
+}
+
+.nav-link:hover{
+    color: #ff003A;
+     opacity: 1s;
+     box-shadow: 3px 3px #2e3030;
+     transition: 0.5s;
+}
+.sec1-h{
+    text-align: center;
+    padding: 35px 2px 2px 2px;
+    font-size: 1.9em;
+    font-weight: bold;
+  color: #031A62;
+}
+.sec2-b{
+    background-color: #031A62;
+}
+.sec2-h1{
+    text-align: center;
+    font-size: 2.5em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    padding-top: 15px;
+    color: #081c5a;
+}
+.sec2-h2{
+    text-align: center;
+    font-size: 2.5em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    padding-top: 15px;
+    color: #ffffff;
+}
+.sec2-btn{
+    margin-bottom: 29px;
+    padding: 10px 25px 10px 25px;
+    border-radius: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    background-color: #ff003A;
+    border: 2px solid #ff003A;
+
+   
+}
+.sec2-btn:hover{
+    color: #ff003A;
+    background-color: white;
+    transition: 0.3s;
+    border: 2px solid #ff003A;
+}
+.sec2-btn2{
+    margin-bottom: 29px;
+   margin-top: 12px;
+    border: 2px solid #031A62;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:#031A62;
+    padding: 8px 45px 8px 45px;
+    border-radius: 25px;
+}
+.sec2-btn2:hover{
+    background-color: #031A62;
+    color: white;
+    border: 2px solid white;
+    transition: 0.3s;
+}
+.sec3{
+   margin-top: 25px;
+}
+.sec3-h{
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    opacity: 0.8;
+    font-size: 18px;
+   cursor: pointer;
+}
